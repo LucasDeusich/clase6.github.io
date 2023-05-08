@@ -1,0 +1,57 @@
+.Mheader {
+    background-color: gold;
+}
+
+.List {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.Formulario {
+    font-weight: bolder;
+
+}
+
+.asd {
+    border-width: 2px;
+    border-color: crimson;
+}
+
+.Days {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.Horarios-tabla {
+    font-style: italic;
+}
+
+.lun {
+    color: gold;
+}
+
+.mar {
+    color: red;
+}
+
+.mie {
+    color: blue;
+}
+
+.jue {
+    color: blueviolet;
+}
+
+.vie {
+    color: palevioletred;
+}
+
+.sab {
+    color: orangered;
+}
+
+.Mfooter {
+    color: black;
+    background-color: gold;
+}
